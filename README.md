@@ -88,7 +88,7 @@ $ npm start         # visit http://localhost:8000
 
 现代浏览器及 IE11。
 
-|(http://godban.github.io/browsers-support-badges/)</br>IE / Edge | (http://godban.github.io/browsers-support-badges/)</br>Firefox | (http://godban.github.io/browsers-support-badges/)</br>Chrome | (http://godban.github.io/browsers-support-badges/)</br>Safari | (http://godban.github.io/browsers-support-badges/)</br>Opera |
+|IE / Edge | Firefox | Chrome | Safari | Opera |
 | --- | --- | --- | --- | --- |
 | IE11, Edge | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
